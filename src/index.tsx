@@ -151,7 +151,7 @@ export { CookieBarButtons } from './CookieBar/CookieBarButtons';
 export { CookieBarButton } from './CookieBar/CookieBarButton';
 export { Chip } from './Chips/Chip';
 export { ChipLabel } from './Chips/ChipLabel';
-export { FontLoader } from './FontLoader/FontLoader';
+export { FontLoader, useFontLoader } from './FontLoader/FontLoader';
 export { Dimmer } from './Dimmer/Dimmer';
 export { DimmerButtons } from './Dimmer/DimmerButtons';
 export { TimeInput } from './Input/TimeInput';
